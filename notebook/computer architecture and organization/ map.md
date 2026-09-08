@@ -1,0 +1,1 @@
+"The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform." --- Ada Lovelace
